@@ -4,8 +4,8 @@ Gallicorpora lemmatisation dataset
 
 ## Données 
 
-Les données se trouvent au chemin ‘./data/*/*.xml‘.
-Elles sont au format CSV (v.4) et suivent les normes d'annotation du manuel suivant : Simon Gabay, Jean-Baptiste Camps, Thibault Clérice. Manuel d'annotation linguistique pour le français moderne (XVIe -XVIIIe siècles) : Version B. 2022. ⟨hal-02571190v2⟩.
+Les données se trouvent au chemin ‘./data/*.xml ou *.tsv‘.
+L'ensemble des données sont au format XML TEI et tsv. Les données suivent les normes d'annotation du manuel suivant : Simon Gabay, Jean-Baptiste Camps, Thibault Clérice. Manuel d'annotation linguistique pour le français moderne (XVIe -XVIIIe siècles) : Version B. 2022. ⟨hal-02571190v2⟩.
 
 ## Financeur
 
