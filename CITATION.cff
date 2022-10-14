@@ -9,13 +9,11 @@ authors:
     orcid: https://orcid.org/0000-0001-9094-4475
   - family-names: Vlachou
     given-names: Matenia
-  - family-names: Christensen
-    given-names: Kelly
-    orcid: https://orcid.org/0000-0002-7236-874X
+  - family-names: Nguyen
+    given-names: Maëva
+  - family-names: Laroche
+    given-names: Johannes 
 
-title: "Nom dataset"
+title: "Gallicorpora lemmatisation dataset"
 date-released: 2022
-url: "https://github.com/Gallicorpora/nomdepot"
-identifiers:
-  - type: doi
-    value: 'zenodo'
+url: "https://github.com/Gallicorpora/Lemmatisation"
