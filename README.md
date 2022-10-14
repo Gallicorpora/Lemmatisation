@@ -6,8 +6,7 @@ template-depot
 ## Données 
 
 Les données se trouvent au chemin ‘./data/*/*.xml‘.
-Elles sont au format alto (v.4) et suivent les normes de segmentation SegmOnto (https://segmonto.github.io). Toutes les données sont cataloguées sur HTR-United (https://htr-united.github.io). 
-
+Elles sont au format CSV (v.4) et suivent les normes d'annotation du manuel suivant : Simon Gabay, Jean-Baptiste Camps, Thibault Clérice. Manuel d'annotation linguistique pour le français moderne (XVIe -XVIIIe siècles) : Version B. 2022. ⟨hal-02571190v2⟩.
 
 ## Financeur
 
@@ -24,6 +23,4 @@ Gallicorpora propose de consolider et d'appliquer une chaîne de traitement pour
 
 ## Infrastructure
 
-Il est produit sur l'infrastructure du projet CREMMA (https://www.dim-map.fr/projets-soutenus/cremma/).
-Les données pour l'HTR sont produites à l'aide de l'interface eScriptorium (https://gitlab.com/scripta/escriptorium).
 Les données de lemmatisation sont produites à l'aide de l'interface Pyrrha (https://dh.chartes.psl.eu/pyrrha/).
